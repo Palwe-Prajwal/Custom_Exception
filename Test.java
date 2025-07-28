@@ -2,7 +2,7 @@
 public class Main{
     public static void main(String[] args) throws  RuntimeException {
 
-        System.out.println("Git Practies ..");
+        System.out.println("Git Practies ..  while using git branch .....");
     }
 }
 
